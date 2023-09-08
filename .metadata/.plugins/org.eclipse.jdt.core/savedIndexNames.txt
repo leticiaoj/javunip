@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\letba\OneDrive\Área de Trabalho\SwingI\.metadata\.plugins\org.eclipse.jdt.core
+2517222723.index
+3532473926.index
+3958159574.index
+1865797976.index
+2061051789.index
+3678207041.index
